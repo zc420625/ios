@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://202.114.176.67:8080/grid/static/app/grid-release.ipa</string>
+					<string>http://news.zhouc.cc/static/downlaod/NewMedia.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -23,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>网格助手</string>
+				<string>新媒体</string>
 			</dict>
 		</dict>
 	</array>
